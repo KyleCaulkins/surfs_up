@@ -20,9 +20,9 @@ It should be noted that the data used for analysis spans several years and has 1
 ![june_obs](/Resources/june_ob_count.png) ![dec_obs](/Resources/dec_ob_count.png)
 
 * Finding 3
-relatively low standard deviation
-Detail of the code used for this analysis can be found
-![here.](/SurfsUp_Challenge.ipynb)
+The two months have relatively low standard deviation in temperature. June has a std of 3.26 and December has a std of 3.75. There is only a few degrees of standard deviation within each month, and only a few degrees in difference between June and December mean temperatures. Given this information, the island of O'ahu has a relatively stable temperature.
+
+![june_std](/Resources/june_temp_std.png) ![dec_std](/Resources/dec_temp_std.png)
 
 ## Summary
 
