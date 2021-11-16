@@ -6,6 +6,9 @@ This analysis is part of a broader project, starting a surf and shake shop on th
 
 ## Results
 
+The following is a list of three significant findings from analyzing the weather data for O'ahu, Hawaii in the months of June and December. Detail of the code used for this analysis can be found
+![here.](/SurfsUp_Challenge.ipynb)
+
 Provide a bulleted list with three key differences in weather from the two analysis deliverables. Use images as support where needed.
 * Finding 1
 min, max, mean temperature
