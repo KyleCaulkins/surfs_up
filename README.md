@@ -26,9 +26,4 @@ The two months have relatively low standard deviation in temperature. June has a
 
 ## Summary
 
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.
-
-Precipitation
-Wind
-Tides
+All in all, the temperature of O'ahu should be suitable to attract surfers and warm enough to enjoy a shake. There does not appear to be a huge standard deviation in temperature for the months analyzed, and the min/max temperatures are mild as well. This information should help W. Avy's confidence in investing in a shop on O'ahu. W. Avy has invested in a surf shop that got rained out of business, and does not want to make that mistake again. In order to add further confidence to this investing decision it is recommended that information regarding precipitation, wind speeds, and tides are added to the analysis. A precipitation analysis would likely address W. Avy's concerns directly. The wind speed and tidal information would verify that O'ahu was not too gnarly for the majority of surfers. With the current weather analysis and recommendation, there should be enough information to convince W. Avy that O'ahu is a prime location for an investment. Surf's up dude!
