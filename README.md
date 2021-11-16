@@ -6,11 +6,17 @@ This analysis is part of a broader project of starting a surf and shake shop on 
 
 ## Results
 
-Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
-
+Provide a bulleted list with three key differences in weather from the two analysis deliverables. Use images as support where needed.
+* Finding 1
+min, max, mean temperature
+* Finding 2
+large and relatively equal observation count
+* Finding 3
+relatively low standard deviation
 Detail of the code used for this analysis can be found
 ![here.](/SurfsUp_Challenge.ipynb)
 
 ## Summary
 
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.
